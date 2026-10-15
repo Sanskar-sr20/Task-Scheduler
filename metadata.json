@@ -1,0 +1,6 @@
+{
+  "name": "Task Scheduler",
+  "description": "Cloud-Based Task Scheduler and Priority Manager demonstrating DAA and DCC algorithms with smart greedy scheduling, sorting benchmarks, and Supabase cloud persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

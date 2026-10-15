@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Main Task Board / Clipboard Silhouette -->
+        <path
+            android:fillColor="#E8F5E9"
+            android:pathData="M34,30 C34,27.8 35.8,26 38,26 L45,26 C45,23.8 46.8,22 49,22 L59,22 C61.2,22 63,23.8 63,26 L70,26 C72.2,26 74,27.8 74,30 L74,78 C74,80.2 72.2,82 70,82 L38,82 C35.8,82 34,80.2 34,78 Z" />
+        
+        <!-- Top Clip Header in Forest Green -->
+        <path
+            android:fillColor="#1B4D3E"
+            android:pathData="M48,24 C47.5,24 47,24.5 47,25 L47,28 C47,28.5 47.5,29 48,29 L60,29 C60.5,29 61,28.5 61,28 L61,25 C61,24.5 60.5,24 60,24 Z" />
+            
+        <!-- Task Checkmark 1 -->
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M42,39 L40,37 L38.6,38.4 L42,41.8 L49,34.8 L47.6,33.4 Z" />
+        <!-- Task Line 1 -->
+        <path
+            android:fillColor="#2D6A4F"
+            android:pathData="M52,36 L68,36 C68.6,36 69,36.4 69,37 C69,37.6 68.6,38 68,38 L52,38 C51.4,38 51,37.6 51,37 C51,36.4 51.4,36 52,36 Z" />
+
+        <!-- Task Checkmark 2 -->
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M42,49 L40,47 L38.6,48.4 L42,51.8 L49,44.8 L47.6,43.4 Z" />
+        <!-- Task Line 2 -->
+        <path
+            android:fillColor="#2D6A4F"
+            android:pathData="M52,46 L68,46 C68.6,46 69,46.4 69,47 C69,47.6 68.6,48 68,48 L52,48 C51.4,48 51,47.6 51,47 C51,46.4 51.4,46 52,46 Z" />
+
+        <!-- Circular Clock / DAA Scheduler Badge (bottom right overlay) -->
+        <path
+            android:fillColor="#0B2E1C"
+            android:pathData="M66,66 C66,57.2 73.2,50 82,50 C90.8,50 98,57.2 98,66 C98,74.8 90.8,82 82,82 C73.2,82 66,74.8 66,66 Z" />
+        <!-- Clock Face Ring -->
+        <path
+            android:strokeColor="#52B788"
+            android:strokeWidth="2.5"
+            android:pathData="M82,53 C89.2,53 95,58.8 95,66 C95,73.2 89.2,79 82,79 C74.8,79 69,73.2 69,66 C69,58.8 74.8,53 82,53 Z" />
+        <!-- Clock Hands pointing to 3:00 (scheduler) -->
+        <path
+            android:strokeColor="#D8F3DC"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M82,66 L82,58 M82,66 L88,66" />
+        <path
+            android:fillColor="#D8F3DC"
+            android:pathData="M82,64.5 C82.8,64.5 83.5,65.2 83.5,66 C83.5,66.8 82.8,67.5 82,67.5 C81.2,67.5 80.5,66.8 80.5,66 C80.5,65.2 81.2,64.5 82,64.5 Z" />
+            
+        <!-- Lightning Priority Badge on top left -->
+        <path
+            android:fillColor="#F4A261"
+            android:pathData="M33,48 L25,59 L31,59 L27,70 L38,57 L32,57 Z" />
+    </group>
+</vector>
